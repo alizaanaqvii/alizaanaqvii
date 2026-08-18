@@ -1,12 +1,12 @@
-# alizaanaqvii
+<div align="center">
 
-> Computer Science Student · Developer · Photographer
+# Hi, I'm Aliza 👋
 
-**Theme:** GitHub · **Style:** Detailed · **Focus:** Full-Stack Development & Creative Technology
-
-## Header
+### Computer Science Student · Developer · Photographer
 
 > Building with code. Creating with photography.
+
+</div>
 
 <p align="center">
   <picture>
@@ -16,18 +16,20 @@
     />
     <img
       src="https://www.gitskins.com/api/section/hero?username=alizaanaqvii&theme=github-dark"
-      alt="alizaanaqvii hero section"
+      alt="Aliza hero section"
     />
   </picture>
 </p>
 
-## About Me
+---
+
+## 👩‍💻 About Me
 
 I'm **Aliza**, a Computer Science student at **Heriot-Watt University Dubai** with an interest in software development, web technologies, and creative projects.
 
 I enjoy building things that are both functional and visually engaging — from React applications and data projects to my personal developer and photography portfolio.
 
-Outside of development, I'm involved in university media and photography, where I get to combine technology with creativity.
+Outside of development, I enjoy photography, university media projects, and contributing to events where technology and creativity come together.
 
 <p align="center">
   <picture>
@@ -37,31 +39,26 @@ Outside of development, I'm involved in university media and photography, where 
     />
     <img
       src="https://www.gitskins.com/api/section/about?username=alizaanaqvii&theme=github-dark"
-      alt="alizaanaqvii about section"
+      alt="Aliza about section"
     />
   </picture>
 </p>
 
-## Skills
+---
 
-### Languages & Technologies
+## 🛠️ Skills
 
-* Java
-* Python
-* JavaScript
-* HTML
-* CSS
-* SQL
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
 
 ### Frameworks & Tools
 
-* React
-* Vite
-* React Router
-* Git
-* GitHub
-* VS Code
-* Power BI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,git,github,vscode,figma" />
+</p>
 
 <p align="center">
   <picture>
@@ -71,14 +68,14 @@ Outside of development, I'm involved in university media and photography, where 
     />
     <img
       src="https://www.gitskins.com/api/section/stack?username=alizaanaqvii&theme=github-dark"
-      alt="alizaanaqvii stack section"
+      alt="Aliza technology stack"
     />
   </picture>
 </p>
 
-## GitHub Stats
+---
 
-My GitHub activity reflects the projects, experiments, and coursework I'm continuously working on.
+## 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -88,14 +85,14 @@ My GitHub activity reflects the projects, experiments, and coursework I'm contin
     />
     <img
       src="https://www.gitskins.com/api/section/stats?username=alizaanaqvii&theme=github-dark"
-      alt="alizaanaqvii stats section"
+      alt="Aliza GitHub statistics"
     />
   </picture>
 </p>
 
-## Projects
+---
 
-A selection of projects I've built while exploring software development, data, and creative technology.
+## 🚀 Projects
 
 <p align="center">
   <picture>
@@ -105,41 +102,79 @@ A selection of projects I've built while exploring software development, data, a
     />
     <img
       src="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark"
-      alt="alizaanaqvii projects section"
+      alt="Aliza projects"
     />
   </picture>
 </p>
 
-## Developer + Creative
+---
+
+## 💻 Developer Mode
 
 ```text
-DEVELOPER MODE
-├── React
-├── JavaScript
-├── Java
-├── Python
-├── SQL
-└── Building things
-
-CREATIVE MODE
-├── Photography
-├── Event Coverage
-├── Visual Storytelling
-└── Capturing Moments
+┌──────────────────────────────────────────────┐
+│                                              │
+│  ⚛️  React                                   │
+│  🟨 JavaScript                               │
+│  ☕ Java                                     │
+│  🐍 Python                                   │
+│  🗄️  SQL                                     │
+│  🌐 Web Development                           │
+│                                              │
+│  Building things that are functional        │
+│  and visually engaging.                     │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-## Current Focus
+---
 
-* 🌐 Developing and improving my personal portfolio
+## 📸 Creative Mode
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  📷 Photography                              │
+│  🎥 Media & Events                           │
+│  🎨 Creative Projects                        │
+│  🎞️ Visual Storytelling                      │
+│                                              │
+│  Capturing moments beyond the screen.       │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 🔭 Currently Working On
+
+* 🌐 Improving my personal portfolio
 * ⚛️ Building React-based projects
 * 📸 Expanding my photography portfolio
 * 💻 Strengthening my software development skills
 * 📊 Exploring data analysis and visualization
 * 🚀 Learning by building
 
-## Connect
+---
 
-I'm always happy to connect with people interested in **technology, development, photography, and creative projects**.
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
   <picture>
@@ -149,26 +184,24 @@ I'm always happy to connect with people interested in **technology, development,
     />
     <img
       src="https://www.gitskins.com/api/section/social?username=alizaanaqvii&theme=github-dark"
-      alt="alizaanaqvii social section"
+      alt="Aliza social links"
     />
   </picture>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=alizaanaqvii&label=Profile%20Views&style=flat"
-    alt="Profile views"
-  />
 </p>
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile! ✨**
+### `Code • Create • Capture`
 
-`Code • Create • Capture`
+Thanks for visiting my profile! ✨
+
+<img
+src="https://komarev.com/ghpvc/?username=alizaanaqvii&label=Profile%20Views&style=flat"
+alt="Profile views"
+/>
 
 </div>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Developer + Creative, Current Focus, Connect -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Developer Mode, Creative Mode, Currently Working On, Contributions, Connect -->
