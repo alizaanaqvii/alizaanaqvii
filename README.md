@@ -141,7 +141,7 @@ Photography is one of the ways I enjoy being creative — from university events
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
