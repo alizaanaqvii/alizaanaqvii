@@ -82,18 +82,34 @@ Outside of development, I enjoy photography, university media projects, and cont
 
 ## 🚀 Projects
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark"
-      alt="Aliza projects"
-    />
-  </picture>
-</p>
+## 🚀 Featured Work
+
+### 🌐 Personal Portfolio
+
+My personal portfolio built with **React and Vite**, combining my developer work with a dedicated photography experience.
+
+The portfolio includes:
+
+* 💻 Developer portfolio and projects
+* 📸 Photography galleries and event collections
+* 🖼️ Interactive image lightboxes
+* 📱 Responsive design
+* 🧭 React Router navigation
+* 🎨 Custom UI and animations
+
+**Tech:** React · Vite · JavaScript · CSS · React Router
+
+[View Repository](https://github.com/alizaanaqvii/portfolio) · [Visit Portfolio](https://portfolio-roan-chi-62.vercel.app/)
+
+---
+
+### 📊 Customer Churn & Retention Analysis
+
+A Power BI analytics project focused on identifying customer churn patterns, retention drivers, and subscription behaviour through interactive dashboards, DAX calculations, and business insight storytelling.
+
+**Tech:** Power BI · DAX · Excel/CSV · Data Analysis
+
+[View Repository](https://github.com/alizaanaqvii/customer-churn-retention-analysis)
 
 ---
 
@@ -133,6 +149,24 @@ Outside of development, I enjoy photography, university media projects, and cont
 ```
 
 ---
+
+## 📂 More Projects
+
+Explore my other repositories, experiments, and university projects below.
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark&mode=light"
+    />
+    <img
+      src="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark"
+      alt="Aliza projects"
+    />
+  </picture>
+</p>
+
 
 ## 🔭 Currently Working On
 
