@@ -182,33 +182,35 @@ I enjoy capturing moments and bringing creative ideas to life.
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, students, recruiters, and people working on interesting technology projects.
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/social?username=alizaanaqvii&theme=github-dark&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/social?username=alizaanaqvii&theme=github-dark"
-      alt="Aliza social links"
-    />
-  </picture>
+  <a href="https://github.com/alizaanaqvii">
+    <img src="https://img.shields.io/badge/GitHub-alizaanaqvii-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alizaa-naqvii/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center">
 
-<div align="center">
+<a href="https://github.com/alizaanaqvii">
+  <img src="https://img.shields.io/github/followers/alizaanaqvii?label=Followers&style=flat" />
+</a>
+
+<a href="https://github.com/alizaanaqvii?tab=repositories">
+  <img src="https://img.shields.io/github/stars/alizaanaqvii?label=Total%20Stars&style=flat" />
+</a>
+
+</p>
 
 ### `Code • Create • Capture`
 
 Thanks for visiting my profile! ✨
 
-<img
-src="https://komarev.com/ghpvc/?username=alizaanaqvii&label=Profile%20Views&style=flat"
-alt="Profile views"
-/>
 
 </div>
 
