@@ -48,18 +48,6 @@ Outside of development, I enjoy photography, university media projects, and cont
 
 ## 🛠️ Skills
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,git,github,vscode,figma" />
-</p>
-
 <p align="center">
   <picture>
     <source
