@@ -194,9 +194,6 @@ I'm always interested in connecting with developers, students, recruiters, and p
     <img src="https://img.shields.io/github/followers/alizaanaqvii?label=Followers&style=flat" />
   </a>
 
-  <a href="https://github.com/alizaanaqvii?tab=repositories">
-    <img src="https://img.shields.io/github/stars/alizaanaqvii?label=Total%20Stars&style=flat" />
-  </a>
 </p>
 
 ---
