@@ -103,16 +103,6 @@ The portfolio includes:
 
 ---
 
-### 📊 Customer Churn & Retention Analysis
-
-A Power BI analytics project focused on identifying customer churn patterns, retention drivers, and subscription behaviour through interactive dashboards, DAX calculations, and business insight storytelling.
-
-**Tech:** Power BI · DAX · Excel/CSV · Data Analysis
-
-[View Repository](https://github.com/alizaanaqvii/customer-churn-retention-analysis)
-
----
-
 ## 💻 Developer Mode
 
 ```text
@@ -148,25 +138,15 @@ A Power BI analytics project focused on identifying customer churn patterns, ret
 └──────────────────────────────────────────────┘
 ```
 
+### 📊 Customer Churn & Retention Analysis
+
+A Power BI analytics project focused on identifying customer churn patterns, retention drivers, and subscription behaviour through interactive dashboards, DAX calculations, and business insight storytelling.
+
+**Tech:** Power BI · DAX · Excel/CSV · Data Analysis
+
+[View Repository](https://github.com/alizaanaqvii/customer-churn-retention-analysis)
+
 ---
-
-## 📂 More Projects
-
-Explore my other repositories, experiments, and university projects below.
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/projects?username=alizaanaqvii&theme=github-dark"
-      alt="Aliza projects"
-    />
-  </picture>
-</p>
-
 
 ## 🔭 Currently Working On
 
