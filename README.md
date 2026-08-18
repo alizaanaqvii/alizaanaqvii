@@ -154,33 +154,14 @@ I enjoy capturing moments and bringing creative ideas to life.
 
 ## 🔭 Currently Working On
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Development
-
 * ⚛️ Building React projects
 * 🌐 Improving my personal portfolio
-* 📚 Strengthening software development skills
-* 🧩 Exploring new technologies
+* 💻 Strengthening my software development skills
+* 📚 Expanding my knowledge of programming and web development
+* 🧩 Exploring new technologies and development tools
+* 🚀 Building projects to grow my GitHub portfolio
 
-</td>
-
-<td width="50%" valign="top">
-
-### 📸 Creative
-
-* 📷 Expanding my photography portfolio
-* 🎬 Working on media projects
-* 🎨 Exploring creative ideas
-* ✨ Combining technology with creativity
-
-</td>
-</tr>
-</table>
-
-> **Currently:** Learning, building, creating, and experimenting. 🚀
+> **Currently:** Learning, building, and experimenting with new technologies. 🚀
 
 ---
 
