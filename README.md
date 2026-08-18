@@ -27,9 +27,9 @@
 
 I'm **Aliza**, a Computer Science student at **Heriot-Watt University Dubai** with an interest in software development, web technologies, and creative projects.
 
-I enjoy building things that are both functional and visually engaging — from React applications and data projects to my personal developer and photography portfolio.
+I enjoy building things that are both functional and visually engaging — from React applications and data projects to my personal portfolio.
 
-Outside of development, I enjoy photography, university media projects, and contributing to events where technology and creativity come together.
+Outside of development, I enjoy photography and university media projects, giving me another way to combine technology with creativity.
 
 <p align="center">
   <picture>
@@ -80,8 +80,6 @@ Outside of development, I enjoy photography, university media projects, and cont
 
 ---
 
-## 🚀 Projects
-
 ## 🚀 Featured Work
 
 ### 🌐 Personal Portfolio
@@ -113,15 +111,15 @@ A Power BI analytics project focused on identifying customer churn patterns, ret
 
 ---
 
-## 💻 Developer × 📸 Creative
+## 💻 What I Build
+
+I enjoy working on projects that combine **problem-solving, functionality, and good user experiences**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Developer
-
-Building projects with:
+### Development
 
 * ⚛️ React & Vite
 * 🟨 JavaScript
@@ -130,34 +128,29 @@ Building projects with:
 * 🗄️ SQL
 * 🌐 Web Development
 
-I enjoy turning ideas into functional, responsive, and visually engaging experiences.
-
 </td>
 
 <td width="50%" valign="top">
 
-### 📸 Creative
-
-Creating through:
+### Creative
 
 * 📷 Photography
-* 🎥 Event & Media Coverage
-* 🎨 Creative Projects
-* 🖼️ Visual Storytelling
-* ✨ Digital Content
-
-I enjoy capturing moments and bringing creative ideas to life.
+* 🎥 Media Projects
+* 🎨 Visual Content
+* ✨ Creative Technology
 
 </td>
 </tr>
 </table>
+
+---
 
 ## 🔭 Currently Working On
 
 * ⚛️ Building React projects
 * 🌐 Improving my personal portfolio
 * 💻 Strengthening my software development skills
-* 📚 Expanding my knowledge of programming and web development
+* 📚 Expanding my programming knowledge
 * 🧩 Exploring new technologies and development tools
 * 🚀 Building projects to grow my GitHub portfolio
 
@@ -190,28 +183,30 @@ I'm always interested in connecting with developers, students, recruiters, and p
   <a href="https://github.com/alizaanaqvii">
     <img src="https://img.shields.io/badge/GitHub-alizaanaqvii-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/alizaa-naqvii/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/alizaanaqvii">
+    <img src="https://img.shields.io/github/followers/alizaanaqvii?label=Followers&style=flat" />
+  </a>
 
-<a href="https://github.com/alizaanaqvii">
-  <img src="https://img.shields.io/github/followers/alizaanaqvii?label=Followers&style=flat" />
-</a>
-
-<a href="https://github.com/alizaanaqvii?tab=repositories">
-  <img src="https://img.shields.io/github/stars/alizaanaqvii?label=Total%20Stars&style=flat" />
-</a>
-
+  <a href="https://github.com/alizaanaqvii?tab=repositories">
+    <img src="https://img.shields.io/github/stars/alizaanaqvii?label=Total%20Stars&style=flat" />
+  </a>
 </p>
+
+---
+
+<div align="center">
 
 ### `Code • Create • Capture`
 
 Thanks for visiting my profile! ✨
 
-
 </div>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Developer Mode, Creative Mode, Currently Working On, Contributions, Connect -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Featured Work, What I Build, Currently Working On, Contributions, Connect -->
