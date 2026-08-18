@@ -103,41 +103,6 @@ The portfolio includes:
 
 ---
 
-## 💻 Developer Mode
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  ⚛️  React                                   │
-│  🟨 JavaScript                               │
-│  ☕ Java                                     │
-│  🐍 Python                                   │
-│  🗄️  SQL                                     │
-│  🌐 Web Development                           │
-│                                              │
-│  Building things that are functional        │
-│  and visually engaging.                     │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## 📸 Creative Mode
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  📷 Photography                              │
-│  🎥 Media & Events                           │
-│  🎨 Creative Projects                        │
-│  🎞️ Visual Storytelling                      │
-│                                              │
-│  Capturing moments beyond the screen.       │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
 ### 📊 Customer Churn & Retention Analysis
 
 A Power BI analytics project focused on identifying customer churn patterns, retention drivers, and subscription behaviour through interactive dashboards, DAX calculations, and business insight storytelling.
@@ -147,6 +112,47 @@ A Power BI analytics project focused on identifying customer churn patterns, ret
 [View Repository](https://github.com/alizaanaqvii/customer-churn-retention-analysis)
 
 ---
+
+## 💻 Developer × 📸 Creative
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Developer
+
+Building projects with:
+
+* ⚛️ React & Vite
+* 🟨 JavaScript
+* ☕ Java
+* 🐍 Python
+* 🗄️ SQL
+* 🌐 Web Development
+
+I enjoy turning ideas into functional, responsive, and visually engaging experiences.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📸 Creative
+
+Creating through:
+
+* 📷 Photography
+* 🎥 Event & Media Coverage
+* 🎨 Creative Projects
+* 🖼️ Visual Storytelling
+* ✨ Digital Content
+
+I enjoy capturing moments and bringing creative ideas to life.
+
+</td>
+</tr>
+</table>
+
+
 
 ## 🔭 Currently Working On
 
