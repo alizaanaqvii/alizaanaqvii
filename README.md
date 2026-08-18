@@ -164,7 +164,7 @@ I enjoy working on projects that combine **problem-solving, functionality, and g
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/gh-pages/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/gh-pages/github-contribution-grid-snake-dark.svg"
     />
     <img
       src="https://raw.githubusercontent.com/alizaanaqvii/alizaanaqvii/gh-pages/github-contribution-grid-snake.svg"
